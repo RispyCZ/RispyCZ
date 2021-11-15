@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RispyCZ
-- 👀 I’m interested in nothing
-- 🌱 I’m currently stop learning
-- 💞️ I’m looking to collaborate on what?
+- 👀 I’m interested in Laravel
+- 🌱 I’m currently learning MongoDB
 - 📫 Please don't reach me thank you
 
 <!---
