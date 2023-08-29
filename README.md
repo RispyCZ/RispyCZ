@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RispyCZ somethink like a DevOps guy
+- 👋 Hi, I’m @RispyCZ something like a DevOps guy
 
  I’m also good in production crashing
 
